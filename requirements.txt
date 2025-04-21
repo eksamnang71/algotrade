@@ -4,3 +4,4 @@ streamlit
 datetime 
 pandas
 matplotlib
+lxml
