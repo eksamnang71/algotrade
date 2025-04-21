@@ -1,0 +1,6 @@
+yfinance
+mplfinance
+streamlit
+datetime 
+pandas
+matplotlib
